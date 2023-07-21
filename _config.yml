@@ -19,47 +19,47 @@ timezone: America/Los_Angeles
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: ma7dev       # main title
+title: FarisHijazi       # main title
 
 tagline: thinking out loud   # subtitle
 
 description: >-                        # Used by seo meta and atom feeds
-  Personal blog of Mazen Alotaibi
+  Personal blog of Faris Hijazi
 
 # Fill in the protocol and domain name of your website, for example, 'https://username.github.io'
-url: 'https://ma7.dev'
+url: 'https://FarisHijazi.github.io'
 
-author: Mazen Alotaibi    # full name
+author: Faris Hijazi    # full name
 
 github:
-  username: ma7dev
+  username: FarisHijazi
 
 linkedin:
-  username: ma7dev     # Github username
+  username: theeFaris     # Github username
 
 # twitter:
-#   username: ma7dev       # Twitter username
+#   username: FarisHijazi       # Twitter username
 
 # myanimelist:
-#   username: ma7dev
+#   username: FarisHijazi
 
 # I am using Notion page
 notion:
-  username: ma7dev
+  username: FarisHijazi
 
 goodreads:
-  username: ma7dev
+  username: FarisHijazi
 social:
-  name: Mazen Alotaibi                  # will appear as the copyright holder in the footer
-  email: sudomaze@gmail.com             # email address
+  name: Faris Hijazi                  # will appear as the copyright holder in the footer
+  email: theefaris@gmail.com             # email address
   links:
     # The first link will be the copyright owner's link
-    - https://ma7.dev/
-    # - https://twitter.com/ma7dev      #twitter homepage
-    - https://github.com/ma7dev       # Github homepage
+    - https://FarisHijazi.github.io/
+    - https://twitter.com/theefaris      #twitter homepage
+    - https://github.com/FarisHijazi       # Github homepage
     # uncomment to add more links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/ma7dev
+    - https://www.linkedin.com/in/theefaris
 
 google_site_verification:       # fill in your verification string
 
@@ -81,7 +81,7 @@ iconfont_css:
   - //cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css
 
 google_analytics:
-  id: 'G-RK9LRGVP0T'              # Fill in your Google Analytics ID
+  id: ''              # Fill in your Google Analytics ID
   # Google Analytics Page Views Settings
   pv:
     proxy_endpoint:   # Fill in Google App Engine's Google Analytics superProxy endpoint
@@ -143,10 +143,10 @@ comments:
     placeholder: "Say something! PS: Enter the QQ number in the nickname column to automatically obtain the QQ nickname and QQ avatar~" # Text displayed when the comment box is blank
     avatar: mp          # default avatar › https://valine.js.org/avatar.html
   # Waline comment system is an improved version of Valine, with a backend and more secure. › https://waline.js.org/
-  waline:
-    server: https://myblog-comments.vercel.app/    # Vercal server address
-    placeholder: 说点什么吧！    # Text to display when the comment box is blank
-    avatar: mp          # default avatar › https://waline.js.org/guide/client/avatar.html
+  # waline:
+  #   server: https://myblog-comments.vercel.app/    # Vercal server address
+  #   placeholder: 说点什么吧！    # Text to display when the comment box is blank
+  #   avatar: mp          # default avatar › https://waline.js.org/guide/client/avatar.html
   # Giscus Options › https://giscus.app
   giscus:
     repo:             # <Github username>/<repo name>

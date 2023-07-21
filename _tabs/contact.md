@@ -8,16 +8,16 @@ order: 4
 
 ## Follow Me
 
-* Github: [ma7dev](https://github.com/ma7dev){:target="_blank"}
-* LinkedIn: [Mazen Alotaibi](https://linkedin.com/in/ma7dev){:target="_blank"}
-* Twitch: [ma7dev](https://twitch.tv/ma7dev){:target="_blank"}
-* goodreads: [ma7dev](https://goodreads.com/ma7dev){:target="_blank"}
-* MyAnimeList: [ma7dev](https://myanimelist.net/profile/ma7dev){:target="_blank"}
+* Github: [FarisHijazi](https://github.com/FarisHijazi){:target="_blank"}
+* LinkedIn: [Faris Hijazi](https://linkedin.com/in/theefaris){:target="_blank"}
+* Twitch: [FarisHijazi](https://twitch.tv/theefaris){:target="_blank"}
+* goodreads: [FarisHijazi](https://goodreads.com/FarisHijazi){:target="_blank"}
+<!-- * MyAnimeList: [FarisHijazi](https://myanimelist.net/profile/FarisHijazi){:target="_blank"} -->
 
 ## Contact Me
 
-* On LinkedIn, [sending a message](https://linkedin.com/in/ma7dev){:target="_blank"}
-* Over e-mail at **sudomaze**(at)**gmail**(dot)**com**
+* On LinkedIn, [sending a message](https://linkedin.com/in/theefaris){:target="_blank"}
+* Over e-mail at **theefaris**(at)**gmail**(dot)**com**
 
 ---
 *This page was inspired by [Gergely Orosz](https://blog.pragmaticengineer.com/scoop/) and [Xe Iaso](https://xeiaso.net/contact).*
